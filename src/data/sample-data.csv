@@ -1,0 +1,7 @@
+timestamp,temperature,humidity,mq135,h2s,methane,waste_level,location,time_since_cleaning,odour_15min,odour_30min,odour_60min
+2026-08-12T00:00:00Z,22.5,55,150,15,3,10,PublicToilet,5,0,0,0
+2026-08-12T00:01:00Z,22.4,56,151,14,2,10,PublicToilet,5,0,0,0
+2026-08-12T00:02:00Z,22.3,54,152,16,3,9,PublicToilet,5,0,0,0
+...
+2026-08-12T02:24:00Z,23.1,76,152,32,6,14,Other,12,0,0,0
+2026-08-12T02:25:00Z,23.1,77,153,33,7,15,Other,3,1,1,1
